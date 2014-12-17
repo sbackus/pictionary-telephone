@@ -2,6 +2,7 @@
 
 [![Test Coverage](https://codeclimate.com/github/sbackus/pictionary-telephone/badges/coverage.svg)](https://codeclimate.com/github/sbackus/pictionary-telephone)
 
+![CodeShip build status](https://codeship.com/projects/111a2030-67d1-0132-cfb2-3ac858f34f77/status?branch=master)
 
 == README
 
