@@ -1,3 +1,8 @@
+[![Code Climate](https://codeclimate.com/github/sbackus/pictionary-telephone/badges/gpa.svg)](https://codeclimate.com/github/sbackus/pictionary-telephone)
+
+[![Test Coverage](https://codeclimate.com/github/sbackus/pictionary-telephone/badges/coverage.svg)](https://codeclimate.com/github/sbackus/pictionary-telephone)
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
