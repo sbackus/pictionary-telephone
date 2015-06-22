@@ -1,1 +1,7 @@
 "Create a caption!"
+
+<%= form_for @caption, url: {action: "create"} do |f| %>
+  <%= f.label :caption %>:
+  <%= f.text_field :text %>
+  <%= f.submit "Create" %>
+<% end %>
